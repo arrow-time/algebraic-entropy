@@ -1,6 +1,6 @@
 # Algebraic Entropy
 
-high resolution algebraic entropy
+## high resolution algebraic entropy
 
 This multiplicative Algebraic entropy provides a high-resolution description of how energy distributions evolve and homogenize within a system, capturing every step of the process with remarkable detail. Unlike classical thermodynamic entropy, which summarizes disorder at a macroscopic level and loses microscopic information, algebraic entropy tracks the precise sequence of changes as energy spreads and equilibrates across discrete units of space. This approach preserves the causal order of interactions, effectively encoding not just the "before" and "after" of a physical process, but the entire pathway of transformation.
 
