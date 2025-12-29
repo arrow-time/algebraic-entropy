@@ -1,2 +1,11 @@
-# algebraic-entropy
+# Algebraic Entropy
+
 high resolution algebraic entropy
+
+This multiplicative Algebraic entropy provides a high-resolution description of how energy distributions evolve and homogenize within a system, capturing every step of the process with remarkable detail. Unlike classical thermodynamic entropy, which summarizes disorder at a macroscopic level and loses microscopic information, algebraic entropy tracks the precise sequence of changes as energy spreads and equilibrates across discrete units of space. This approach preserves the causal order of interactions, effectively encoding not just the "before" and "after" of a physical process, but the entire pathway of transformation.
+
+By using a multiplicative structure ∏mᵢ, this form of entropy grows in response to each local energy transfer, reflecting the cumulative effect of small-scale redistributions. It reveals that the arrow of time emerges naturally from these irreversible steps toward uniformity, where each transition increases the system's overall entropy in a way that cannot be undone without external intervention. The model suggests that spacetime itself may be composed of fundamental quantum elements whose interactions follow such entropy-increasing paths, giving rise to both gravity and quantum behavior.
+
+This model extends the second law of thermodynamics down to the level of quantum-scale interactions, positioning it as the primary driving force behind system evolution. In this framework, the passage of time is not an independent parameter but emerges directly from irreversible energy redistribution processes within a network of fundamental spatial quanta. 
+
+The full text available on Zou, Z. K. (2025). The Thermodynamic Arrow of Time in a Double-Layer Topology-Invariant Chiral Space with Geometric (GR) and Gauge (QFT) Degrees of Freedom :Time-Entropy Mapping; Mass-Gravity Duality; Metric-Frequency Mirroring. Preprints. https://doi.org/10.20944/preprints202505.0270.v12
